@@ -15,7 +15,7 @@ Here's a glimpse into who I am:
 ## 🛠️ Skills
 
 - **Testing:** Proficient in manual and automated testing techniques.
-- **Test Automation:* Selenium, TestNG, Cucumber,TDD and BDD, Java
+- **Test Automation:** Selenium, TestNG, Cucumber,TDD and BDD, Java
 - **Defect Tracking:** Experienced in using defect tracking tools JIRA
 
 
