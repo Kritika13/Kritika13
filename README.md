@@ -17,7 +17,7 @@ Here's a glimpse into who I am:
 
  🔍 Currently exploring Selenium, TestNG, Cucumber,Data-driven, Keyword Driven and BDD, Core Java
 
-# 🛠️ Skills
+## 🛠️ Skills
 
 **Testing:** Proficient in manual and automated testing techniques.
 
