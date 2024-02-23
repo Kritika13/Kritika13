@@ -10,7 +10,7 @@ Here's a glimpse into who I am:
 
 ## 🌱 Current Focus
 
-- 🔍 Currently exploring Selenium, TestNG, Cucumber,TDD and BDD, Java
+- 🔍 Currently exploring Selenium, TestNG, Cucumber,Data-driven, Keyword Driven and BDD, Core Java
 
 ## 🛠️ Skills
 
