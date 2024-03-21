@@ -1,5 +1,5 @@
 # Hi There! 👋
-I am Kritika. A dedicated software tester with a passion for ensuring the quality and reliability of software. 
+I am Kritika. A dedicated QA Engineer with a passion for ensuring the quality and reliability of software. 
 
 Here's a glimpse into who I am:
 
